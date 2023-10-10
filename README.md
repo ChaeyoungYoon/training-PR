@@ -1,2 +1,3 @@
 # training-PR
-PR 연습 
+연습용 저장소
+
